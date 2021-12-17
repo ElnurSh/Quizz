@@ -1,8 +1,4 @@
 from random import shuffle
-
-
-
-        
         
 def s1():
     try:
@@ -161,11 +157,4 @@ def start():
 
 
 start()
-
-
-
-
-
-
-
 
